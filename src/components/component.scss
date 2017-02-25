@@ -1,0 +1,18 @@
+@import 'variables.scss';
+
+body {
+  background: $background-color;
+}
+
+h1 {
+  color: $primary-text-color;
+}
+
+img {
+  width: 200px;
+}
+
+.container {
+  margin-top: 20px;
+  margin-left: 40px;
+}
